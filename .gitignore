@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Makefile
+Makefile
+
+# compile 
+compile_commands.json
+.clang-format
+
+# Project Specifics
+
+game
+.cache/
